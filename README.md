@@ -1,5 +1,7 @@
 # Canvas-coop-game
 
+One player can move with the arrow keys and the other with WASD
+
 This was the first game I ever made with canvas, and I made it based on a video about this dude. 
 https://youtu.be/D-dtyO44ANA
 
